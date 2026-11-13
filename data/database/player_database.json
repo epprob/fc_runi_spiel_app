@@ -1,0 +1,83 @@
+{
+  "0": {
+    "footballplayer_name": "Hippo Runi",
+    "offence_pts": 0.0,
+    "defence_pts": 2.0,
+    "fairness": 9,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "1": {
+    "footballplayer_name": "Piccadilly Runi",
+    "offence_pts": 2.0,
+    "defence_pts": 0.0,
+    "fairness": 9,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "2": {
+    "footballplayer_name": "Eugene Portua",
+    "offence_pts": 3.0,
+    "defence_pts": 0.0,
+    "fairness": 6,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "3": {
+    "footballplayer_name": "Rudolf von der Alp",
+    "offence_pts": 1.0,
+    "defence_pts": 2.0,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "4": {
+    "footballplayer_name": "Cowi Brown",
+    "offence_pts": 0.5,
+    "defence_pts": 1.5,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "5": {
+    "footballplayer_name": "Nils Eis",
+    "offence_pts": 1.0,
+    "defence_pts": 0.0,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "6": {
+    "footballplayer_name": "Tenley Tenely",
+    "offence_pts": 0.0,
+    "defence_pts": 1.0,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "7": {
+    "footballplayer_name": "Benetino",
+    "offence_pts": 1.5,
+    "defence_pts": 1.5,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  },
+
+  "8": {
+    "footballplayer_name": "Juri Slodcjov",
+    "offence_pts": 0.0,
+    "defence_pts": 1.0,
+    "fairness": 10,
+    "salary": 1000000,
+    "price": 2000000
+  }
+}
+
